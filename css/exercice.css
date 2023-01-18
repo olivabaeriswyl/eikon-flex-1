@@ -27,6 +27,10 @@
 }
 
 /* 6. exercice-wrap-2 */
+.exercice-wrap-2 .container {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 /* 7. exercice-wrap-3 */
 
