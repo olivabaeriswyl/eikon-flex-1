@@ -16,6 +16,10 @@
 }
 
 /* 4. exercice-direction-2 */
+.exercice-direction-3 .container {
+  display: flex;
+  flex-direction: row-reverse;
+}
 
 /* 5. exercice-wrap-1 */
 
